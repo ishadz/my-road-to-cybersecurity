@@ -1,0 +1,8 @@
+#D1
+I remember saying that I will start now and then don't start for another month/year or smtg.
+Well, today was the day when I finally started and guess what - the FireFox crashed, package and python issues, and then finally my Kali Linux crashed.
+But like a stubbern old man I removed and imported the same old broken 2021.3 VM version, till chatgpt told me to update.
+So, I downloaded and imported the latest Kali VM, Windows Defender flagged the kali download (but managed to download after multiple tries - just click on download again and again lol).
+First thing i did after successfull update and upgrade steps was to check the python and git version - that and changed default credentials obviously.
+It took some time but back on track. 
+The next step is learning python again(this time a bit differently).
